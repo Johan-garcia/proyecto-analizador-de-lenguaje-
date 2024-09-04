@@ -41,9 +41,24 @@ def hola():
 """
 ```
 
+-Resultado:
 
+```bash
+<def,2,1>
+<id,hola,2,5>
+<tk_par_izq,2,9>
+<tk_par_der,2,10>
+<tk_dos_puntos,2,11>
+<INDENT,3,5>
+<print,3,5>
+<tk_par_izq,3,10>
+<tk_entero,12,3,11>
+<tk_par_der,3,13>
+<DEDENT,4,1>
 
-Interpretación:
+```
+
+-Interpretación:
 
     <def,2,1>:
         Token: def

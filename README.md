@@ -25,7 +25,7 @@ Primero, descarga el archivo ZIP del repositorio desde GitHub. Una vez descargad
 
 ### 3. Ejecucion del programa
 
--Para ejecutar el programa nos dirigimos a la carpeta en donde se extrajo el archivo .zip y en esta carpeta hacemos clic derecho y damos en la opcion "abrir en terminal" /endl
+-Para ejecutar el programa nos dirigimos a la carpeta en donde se extrajo el archivo .zip y en esta carpeta hacemos clic derecho y damos en la opcion "abrir en terminal" n/
 -para ejecutarlo solo necesitaremos poner esta linea de codigo: 
 
 ```bash

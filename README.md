@@ -29,7 +29,7 @@ Primero, descarga el archivo ZIP del repositorio desde GitHub. Una vez descargad
 -para ejecutarlo solo necesitaremos poner esta linea de codigo: 
 
 ```bash
-python3 ADF.py
+python3 AFD.py
 ```
 ### Funcionamiento del programa
 -El programa contiene un ejemplo de analisis de codigo que es:

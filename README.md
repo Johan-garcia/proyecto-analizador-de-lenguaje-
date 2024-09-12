@@ -36,8 +36,7 @@ python3 AFD.py
 
 ```bash
 input_code = """
-def hola():
-    print(12)
+    cuadrado = lambda x, y: x + y
 """
 ```
 
@@ -99,7 +98,7 @@ def hola():
 
     <print,3,5>:
         Token: print (función de impresión)
-        Línea: 3
+        Línea: 3cuadrado = lambda x, y: x + y
         Columna: 5
         Interpretación: Se encontró la palabra clave print en la línea 3, columna 5.
 
